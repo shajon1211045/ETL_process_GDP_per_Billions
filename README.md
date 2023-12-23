@@ -1,17 +1,17 @@
 # World Economies ETL Project
 
-This project focuses on extracting, transforming, and loading data related to countries and their GDP. The primary script (`etl_script.py`) performs these ETL operations and stores the transformed data in both a CSV file (`Countries_by_GDP.csv`) and an SQLite database (`World_Economies.db`).
+This project focuses on extracting, transforming, and loading data related to countries and their GDP. The primary script `etl_script.py` performs these ETL operations and stores the transformed data in both a CSV file `Countries_by_GDP.csv` and an SQLite database `World_Economies.db`.
 
 ## Requirements
 
-- Python 3.x
+- `Python 3.x`
 - Libraries:
-  - requests
-  - pandas
-  - numpy
-  - BeautifulSoup
-  - sqlite3
-  - datetime
+  - `requests`
+  - `pandas`
+  - `numpy`
+  - `BeautifulSoup`
+  - `sqlite3`
+  - `datetime`
 
 Install the required libraries using the following command:
 
