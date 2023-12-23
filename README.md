@@ -5,7 +5,7 @@ This project focuses on extracting, transforming, and loading data related to co
 ## Requirements
 
 - `Python 3.x`
-- Libraries:
+- ### Libraries:
   - `requests`
   - `pandas`
   - `numpy`
