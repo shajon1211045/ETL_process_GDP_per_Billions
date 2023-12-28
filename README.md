@@ -21,7 +21,9 @@ pip install pandas numpy beautifulsoup4
 ## Usage  
 ### Clone the repository  
 ```
-git clone https://github.com/shajon1211045/ETL_process_GDP_per_Billions.git    
+git clone https://github.com/shajon1211045/ETL_process_GDP_per_Billions.git
+```
+``` 
 cd ETL_process_GDP_per_Billions  
 ```
 ### Run the ETL script  
